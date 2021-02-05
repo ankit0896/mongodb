@@ -32,6 +32,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     @BindView(R.id.et_user_password)
     EditText password;
     @BindView(R.id.et_user_email_id)
+
     EditText emailId;
     @BindView(R.id.card_submit_btn)
     CardView signUp;
