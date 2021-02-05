@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MongoDBApp</string>
+    <string name="enterFirstName">Enter First Name</string>
+    <string name="enterLastName">Enter Last Name</string>
+    <string name="enterEmailID">Enter Email ID</string>
+    <string name="enterPassword">Enter Password</string>
+    <string name="submit">Sign Up</string>
+    <string name="APP_ID">tanklog-wmmph</string>
+</resources>
